@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Swift-Send**
 
-- 🌱 I’m currently learning **Advanced React ,Java MicroServices Design ,AWS Cloudpatterns**
+- 🌱 I’m currently learning **Advanced React ,Java MicroServices Design ,AWS Cloud**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
