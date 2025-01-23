@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate full stack java developer</h3>
 
-- 🔭 I’m currently working on **Swift-Send**
-
-- 🌱 I’m currently learning **Advanced React ,Java MicroServices Design ,AWS Cloud**
+🔭 I'm currently exploring Cloud-Native Architectures & DevOps Practices
+🌱 I'm deep diving into Advanced React, Java Microservices, AWS Cloud Services
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
