@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan</h1>
+i<h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate full stack java developer</h3>
 
 🔭 I'm currently exploring Cloud-Native Architectures & DevOps Practices
@@ -14,9 +14,7 @@
 
 - ⚡ Fun fact **I would love to explore european continent**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan-reddy-7658ba191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan reddy" height="30" width="40" /></a>
+
 <a href="https://instagram.com/rohan_reddy_11_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan_reddy_11_99" height="30" width="40" /></a>
 </p>
 
